@@ -1,0 +1,44 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*.class
+
+# Virtual environment
+venv/
+env/
+*.venv
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and local environment settings
+*.log
+*.out
+*.err
+*.sqlite3
+*.db
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS and system files
+.DS_Store
+Thumbs.db
+
+# Python package files
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+
+# Coverage and testing
+htmlcov/
+.coverage
+.tox/
+nosetests.xml
+pytest_cache/
