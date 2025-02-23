@@ -23,9 +23,9 @@ def generate_strong_password(length=14):
 
     return "".join(password)
 
-#----------
-# Main Menu
-# ---------
+#--------------
+# Main Menu CLI
+# -------------
 def main_menu():
     print("\n--- Strong Password Generator ---")
     print("""
